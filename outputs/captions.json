@@ -1,0 +1,42 @@
+[
+    {
+        "image": "aquarium.jpg",
+        "caption": "a fish swimming in a large aquarium"
+    },
+    {
+        "image": "burger.jpg",
+        "caption": "two mini pizzas on a wooden cutting board"
+    },
+    {
+        "image": "car_hand.jpg",
+        "caption": "a person holding a toy car in the woods"
+    },
+    {
+        "image": "cat.jpg",
+        "caption": "a kitten sitting on a tree branch"
+    },
+    {
+        "image": "hugtree.jpg",
+        "caption": "a woman hugging a tree"
+    },
+    {
+        "image": "laptop.jpg",
+        "caption": "a laptop on a purple background"
+    },
+    {
+        "image": "people.jpg",
+        "caption": "a group of people sitting in a tent"
+    },
+    {
+        "image": "pizza.jpg",
+        "caption": "a pizza with different toppings on it"
+    },
+    {
+        "image": "sea.jpg",
+        "caption": "a large boat sailing in the ocean"
+    },
+    {
+        "image": "seat.jpg",
+        "caption": "empty wooden bench in the forest"
+    }
+]
