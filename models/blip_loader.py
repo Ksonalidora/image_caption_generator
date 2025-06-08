@@ -8,7 +8,7 @@ def load_blip_model():
     return model, processor
 
 def generate_caption(model, processor, image):
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    device = "cpu"
     model = model.to(device)
 
     inputs = processor(images=image, return_tensors="pt").to(device)
